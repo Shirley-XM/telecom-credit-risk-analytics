@@ -1,4 +1,4 @@
-# Credit Risk Analytics Dashboard
+# Telecom Credit Risk Analytics Dashboard
 
 ## Business Problem
 
@@ -29,6 +29,17 @@ Key attributes included:
 | Activation Drop-offs | Approved - Activations |
 | Bad Debt Rate | 1-year bad debt write-off rate after activation |
 | Fraud Rate | Fraud cases / Applications |
+
+## Dashboard Preview
+
+### Overview Dashboard
+
+![Overview Dashboard](overview_dashboard.png)
+
+### Credit Strategy Optimization
+
+![Credit Strategy Optimization](credit_strategy_optimization.png)
+
 
 ## Key Findings
 
