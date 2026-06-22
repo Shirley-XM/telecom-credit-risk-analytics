@@ -35,7 +35,6 @@ Key attributes included:
 ### Overview Dashboard
 
 ![Overview Dashboard](overview_dashboard.png)
-
 **Highlights**
 
 - 73.7K applications analyzed
@@ -45,7 +44,6 @@ Key attributes included:
 ### Credit Strategy Optimization
 
 ![Credit Strategy Optimization](credit_strategy_optimization.png)
-
 **Highlights**
 
 - Medium-risk segment showed higher bad debt rates than expected
@@ -55,7 +53,6 @@ Key attributes included:
 ### 3. Growth Opportunities Analysis
 
 ![Growth Opportunities Analysis](Growth_Opportunities.png)
-
 **Highlights**
 
 - Ontario has the largest potential activation recovery opportunity.
